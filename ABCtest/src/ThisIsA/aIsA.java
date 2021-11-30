@@ -6,6 +6,6 @@ public class aIsA {
 		x=87;
 		y=87;
 		System.out.println("x+y= " + (x+y));
-		System.out.println(" 1st Version" );
+		System.out.println(" 2nd Version" );
 	}
 }
